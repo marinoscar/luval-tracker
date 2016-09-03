@@ -1,0 +1,22 @@
+{
+  "name": "luval-tracker",
+  "version": "0.1.0",
+  "description": "activity tracker",
+  "main": "app.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marinoscar/luval-tracker.git"
+  },
+  "author": "Oscar Marin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marinoscar/luval-tracker/issues"
+  },
+  "homepage": "https://github.com/marinoscar/luval-tracker",
+  "devDependencies": {
+    "grunt": "^1.0.1"
+  }
+}
